@@ -41,7 +41,6 @@ The following models were trained and evaluated:
 
 - **Correlation Matrix Heatmap**: Shows the correlation between different features.
 - **Feature Importance Plot**: Displays the importance of each feature for the Random Forest model.
-- **ROC Curves**: Evaluates the performance of each model.
 
 ## Conclusion
 
